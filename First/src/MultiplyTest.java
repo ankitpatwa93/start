@@ -11,6 +11,7 @@ public class MultiplyTest {
 	public void testMultiply() {
 		
 		base.Test t=new base.Test();
+		System.out.println("new changes");
 		//assertEquals("Expected",57,t.multiply(8, 7));
 		fail("fkdasjflkdsajlfds");
 		
