@@ -14,6 +14,7 @@ public class Time implements One,Two
 
 	Integer name;
 	String time;
+	String displySize;
 	
 	public static void main(String[] args) 
 	{
