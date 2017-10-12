@@ -3,11 +3,10 @@ package base;
 public class Employee {
 
 	int id;
+	private String name;
+	
 
-	public Employee(int id) {
-		super();
-		this.id = id;
-	}
+	
 
 	public int getId() {
 		return id;
